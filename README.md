@@ -141,7 +141,7 @@ sahoj-arabi/
 
 ### লোকালে চালানোর নিয়ম:
 1. রিপোজিটরি ক্লোন করুন:  
-   `git clone https://github.com/your-username/sahoj-arabi.git`
+   `git clone https://github.com/rezwanul24/sahoj-arabi.git`
 2. ডিপেন্ডেন্সি ইনস্টল করুন:  
    `npm install`
 3. প্রোজেক্ট স্টার্ট করুন:  
